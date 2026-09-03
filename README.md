@@ -11,12 +11,12 @@
 
 ---
 
-**Ankit Regmi** · `C . Matrix`
+**Ankit Regmi** · `CMX`
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1500&color=2bcee3&width=320&height=28&lines=C+for+code+💻;C+for+craft+🔨;C+for+create+💡;C+for+capture+📷;C+for+Captain+⚓️)](https://git.io/typing-svg)
 
 Maker. Creator. Designer. Solo developer.
-*"Made with ♥︎ by C. Matrix"*
+*"Made with ♥︎ by captain_matrix"*
 ---
 ### activity
 
