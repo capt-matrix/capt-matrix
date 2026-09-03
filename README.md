@@ -13,6 +13,8 @@
 
 **Ankit Regmi** · *C. Matrix*
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1500&color=555555&width=320&height=28&lines=C+for+code+💻;C+for+craft+🪡;C+for+create+✨;C+for+coffee+☕;C+for+capture+📷;C+for+compile+⚙️)](https://git.io/typing-svg)
+
 Maker. Creator. Designer. Solo developer.
 I feel art in making software.
 
