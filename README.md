@@ -11,20 +11,33 @@
 
 ---
 
-**Ankit Regmi** · *C. Matrix*
+**Ankit Regmi** · `C . Matrix`
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1500&color=555555&width=320&height=28&lines=C+for+code+💻;C+for+craft+🪡;C+for+create+✨;C+for+coffee+☕;C+for+capture+📷;C+for+compile+⚙️)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1500&color=2bcee3&width=320&height=28&lines=C+for+code+💻;C+for+craft+🔨;C+for+create+💡;C+for+capture+📷;C+for+Captain+⚓️)](https://git.io/typing-svg)
 
 Maker. Creator. Designer. Solo developer.
-I feel art in making software.
+*"Made with ♥︎ by C. Matrix"*
+---
+### activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/capt-matrix/capt-matrix/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/capt-matrix/capt-matrix/output/github-snake.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/capt-matrix/capt-matrix/output/github-snake.svg" />
+</picture>
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=capt-matrix&show_icons=true&hide_title=true&hide_border=true&count_private=true&include_all_commits=true&theme=graywhite&hide_rank=true&custom_title=" height="130" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=capt-matrix&hide_border=true&layout=compact&theme=graywhite&langs_count=5" height="130" />
 
 ---
 
-### tools i work with
+### currently
 
 ```
-Languages   →   C++   Python   JavaScript   Bash
-Web         →   HTML   CSS   JSX   React
+working on  →  MODUS
+status      →  in progress
 ```
 
 ---
@@ -43,29 +56,15 @@ Web         →   HTML   CSS   JSX   React
 
 ---
 
-### currently
+### tools i work with
 
 ```
-working on  →  MODUS
-status      →  in progress
+Languages   →   C++   Python   JavaScript   Bash
+Web         →   HTML   CSS   JSX   React
 ```
 
 ---
 
-### activity
-
-<picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/capt-matrix/capt-matrix/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/capt-matrix/capt-matrix/output/github-snake.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/capt-matrix/capt-matrix/output/github-snake.svg" />
-</picture>
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=capt-matrix&show_icons=true&hide_title=true&hide_border=true&count_private=true&include_all_commits=true&theme=graywhite&hide_rank=true&custom_title=" height="130" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=capt-matrix&hide_border=true&layout=compact&theme=graywhite&langs_count=5" height="130" />
-
----
 
 ### time at keyboard
 
@@ -76,5 +75,3 @@ status      →  in progress
 ---
 
 <br>
-
-*"Made with ♥︎ by C. Matrix"*
