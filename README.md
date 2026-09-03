@@ -13,7 +13,7 @@
 
 **Ankit Regmi** · *C. Matrix*
 
-Maker. Creator. Designer. Solo developer.  
+Maker. Creator. Designer. Solo developer.
 I feel art in making software.
 
 ---
@@ -21,8 +21,8 @@ I feel art in making software.
 ### tools i work with
 
 ```
-Languages   →   C++   Python  Bash   
-Web         →   HTML   CSS   JSX   JavaScript
+Languages   →   C++   Python   JavaScript   Bash
+Web         →   HTML   CSS   JSX   React
 ```
 
 ---
@@ -33,11 +33,12 @@ Web         →   HTML   CSS   JSX   JavaScript
 
 | project | what it does |
 |---|---|
-| Kitta | An alternative to Mero Share mobile app.|
-| Gett | A feature packed audio downloader and music player|
-| Audiolizer | A custom musical DSL for guitar audio synthesis and visualization |
-| Miano | An ESP32 based mini music composer with piano and drums |
-| LineMan | An ESP32 based line following bot made for arena competetion |
+| [Kitta](https://github.com/capt-matrix/Kitta) | An alternative to Mero Share mobile app |
+| [Gett](https://github.com/capt-matrix/Gett) | A feature packed audio downloader and music player |
+| [Audiolizer](https://github.com/capt-matrix/Audiolizer) | A custom musical DSL for guitar audio synthesis and visualization |
+| [Miano](https://github.com/capt-matrix/Miano) | An ESP32 based mini music composer with piano and drums |
+| [LineMan](https://github.com/capt-matrix/LineMan) | An ESP32 based line following bot made for arena competition |
+
 ---
 
 ### currently
@@ -49,11 +50,29 @@ status      →  in progress
 
 ---
 
+### activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/capt-matrix/capt-matrix/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/capt-matrix/capt-matrix/output/github-snake.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/capt-matrix/capt-matrix/output/github-snake.svg" />
+</picture>
+
 <br>
 
-*"Made with ♥︎ by C. Matrix"*
+<img src="https://github-readme-stats.vercel.app/api?username=capt-matrix&show_icons=true&hide_title=true&hide_border=true&count_private=true&include_all_commits=true&theme=graywhite&hide_rank=true&custom_title=" height="130" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=capt-matrix&hide_border=true&layout=compact&theme=graywhite&langs_count=5" height="130" />
 
 ---
 
-<!-- profile views badge (optional) -->
-<!-- ![](https://komarev.com/ghpvc/?username=capt-matrix&style=flat-square&color=grey) -->
+### time at keyboard
+
+> powered by [WakaTime](https://wakatime.com) — install the plugin in your editor to see this live
+
+[![wakatime](https://wakatime.com/badge/user/capt-matrix.svg?style=flat-square)](https://wakatime.com/@capt-matrix)
+
+---
+
+<br>
+
+*"Made with ♥︎ by C. Matrix"*
