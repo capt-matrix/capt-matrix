@@ -8,7 +8,6 @@
   ╚██████╗   ██║ ╚═╝ ██║ ██║  ██║    ██║    ██║  ██║ ██║ ██╔╝ ██╗
    ╚═════╝   ╚═╝     ╚═╝ ╚═╝  ╚═╝    ╚═╝    ╚═╝  ╚═╝ ╚═╝ ╚═╝  ╚═╝
 ```
-<img width="1536" height="660" alt="image" src="https://github.com/user-attachments/assets/aa7a936a-b74a-459f-b1d2-bec6cc443536" />
 
 ---
 
