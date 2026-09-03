@@ -13,7 +13,7 @@
 
 **Ankit Regmi** · `C . Matrix`
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1500&color=2bcee3&width=320&height=28&lines=C+for+code+💻;C+for+craft+🔨;C+for+create+💡;C+for+capture+📷;C+for+Captain+⚓️)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1500&color=2bcee3&width=320&height=28&lines=C+for+code+💻;C+for+craft+🔨;C+for+create+💡;C+for+capture+📷;C+for+Captain+⚓️)](https://git.io/typing-svg)
 
 Maker. Creator. Designer. Solo developer.
 *"Made with ♥︎ by C. Matrix"*
@@ -27,9 +27,6 @@ Maker. Creator. Designer. Solo developer.
 </picture>
 
 <br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=capt-matrix&show_icons=true&hide_title=true&hide_border=true&count_private=true&include_all_commits=true&theme=graywhite&hide_rank=true&custom_title=" height="130" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=capt-matrix&hide_border=true&layout=compact&theme=graywhite&langs_count=5" height="130" />
 
 ---
 
