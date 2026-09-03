@@ -21,8 +21,8 @@ I feel art in making software.
 ### tools i work with
 
 ```
-Languages   →   C++   Python   JavaScript   Bash
-Web         →   HTML   CSS   JSX   React
+Languages   →   C++   Python  Bash   
+Web         →   HTML   CSS   JSX   JavaScript
 ```
 
 ---
@@ -33,10 +33,11 @@ Web         →   HTML   CSS   JSX   React
 
 | project | what it does |
 |---|---|
-| *(add your project)* | *(one line description)* |
-| *(add your project)* | *(one line description)* |
-| *(add your project)* | *(one line description)* |
-
+| Kitta | An alternative to Mero Share mobile app.|
+| Gett | A feature packed audio downloader and music player|
+| Audiolizer | A custom musical DSL for guitar audio synthesis and visualization |
+| Miano | An ESP32 based mini music composer with piano and drums |
+| LineMan | An ESP32 based line following bot made for arena competetion |
 ---
 
 ### currently
