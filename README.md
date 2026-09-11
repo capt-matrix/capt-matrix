@@ -70,7 +70,7 @@ Web         →   HTML   CSS   JSX   React
 
 ### Languages
 
-![wakatime](https://wakatime.com/share/@afcc8ddd-f28a-4b86-8a7d-61c0cfb1eda6/f91fce4d-32fb-49d3-9f70-564caea50b79.svg)
+![wakatime](https://wakatime.com/share/@afcc8ddd-f28a-4b86-8a7d-61c0cfb1eda6/8561a0ab-cdc5-4891-aa18-1dc9da992c46.svg)
 
 ---
 
