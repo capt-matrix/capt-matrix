@@ -66,7 +66,11 @@ Web         →   HTML   CSS   JSX   React
 
 ### time at keyboard
 
-[![wakatime](https://wakatime.com/share/@afcc8ddd-f28a-4b86-8a7d-61c0cfb1eda6/1786046d-46a0-4c20-b6cd-6b992943015e.svg)
+![wakatime](https://wakatime.com/share/@afcc8ddd-f28a-4b86-8a7d-61c0cfb1eda6/1786046d-46a0-4c20-b6cd-6b992943015e.svg)
+
+### Languages
+
+![wakatime](https://wakatime.com/share/@afcc8ddd-f28a-4b86-8a7d-61c0cfb1eda6/f91fce4d-32fb-49d3-9f70-564caea50b79.svg)
 
 ---
 
