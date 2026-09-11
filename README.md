@@ -66,9 +66,7 @@ Web         →   HTML   CSS   JSX   React
 
 ### time at keyboard
 
-> powered by [WakaTime](https://wakatime.com) — install the plugin in your editor to see this live
-
-[![wakatime](https://wakatime.com/badge/user/afcc8ddd-f28a-4b86-8a7d-61c0cfb1eda6.svg?style=flat-square)](https://wakatime.com/@afcc8ddd-f28a-4b86-8a7d-61c0cfb1eda6)
+[![wakatime](https://wakatime.com/share/@afcc8ddd-f28a-4b86-8a7d-61c0cfb1eda6/1786046d-46a0-4c20-b6cd-6b992943015e.svg)
 
 ---
 
